@@ -786,7 +786,7 @@ body,
 }
 
 .loading-text {
-   color: #9b6cff;
+   color: var(--primary);
    text-align: center;
    padding: 25px 0;
    font-size: 14px;
